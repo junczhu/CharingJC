@@ -1,9 +1,9 @@
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharingJC&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junczhu&show_icons=true&count_private=true" />
 </span>
 
 <!--
-**CharingJC/CharingJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junczhu/junczhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
